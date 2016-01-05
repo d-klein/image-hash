@@ -1,6 +1,10 @@
 # Image Hashing
 
 This repo contains various image hashing methods, implemented in python 2.
+Experiments with these methods and the methods itself are described in
+the paper
+[A Comparative Study on Image Hashing for Document AuthenticationJ](https://d-klein.github.io/image-hash/paper.pdf)
+
 
 You can get a basic overview of usage and options with:
 
